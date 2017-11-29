@@ -5,6 +5,10 @@ public class SalesData {
 	
 	public void Display() {
 		System.out.println("TODO inplement data display");
+		System.out.println("saawanth");
+		System.out.println("saawanth");
+		System.out.println("saawanth");
+		System.out.println("saawanth");
 	}
 
 }
